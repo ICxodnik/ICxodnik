@@ -49,12 +49,12 @@
 <table width="100%">
   <tr> 
     <td colspan="3">
-      <img height="10%" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icxodnik&theme=nord_bright" />
+      <img height="10%" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icxodnik&theme=transparent" />
     </td>
   </tr>
   <tr>
     <td><img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ICxodnik&hide_border=true&background=00000000&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" /></td>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICxodnik&layout=compact&theme=buefy&hide_border=true"/></td>
+    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICxodnik&layout=compact&theme=transparent&hide_border=true"/></td>
     <td>
       
 #### 🌐 Connect with me:
