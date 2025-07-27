@@ -7,6 +7,7 @@
 </div>
 
 <br>
+
 ### GitHub Stats :
 <div>
 <img height="50%" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=ICxodnik&hide_border=true&background=00000000&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Nataliia Khodorova GitHub Readme Streak Stats" /> 
